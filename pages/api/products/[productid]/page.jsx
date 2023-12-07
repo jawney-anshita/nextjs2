@@ -1,6 +1,6 @@
 "use client"
-import Dashboard from '../../../components/Dashboard/Dashboard';
-import DashboardUpdateProperty from '../../../components/Dashboard/DashboardUpdateProperty';
+import Dashboard from '../../../../components/Dashboard/Dashboard';
+import DashboardUpdateProperty from '../../../../components/Dashboard/DashboardUpdateProperty';
 import { useEffect, useState } from 'react';
 
 
